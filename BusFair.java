@@ -1,4 +1,4 @@
-
+//this program is to find the profit percentage for travelling auto&bus and only auto
 
 public class BusFair {
 	int SA=20,bus=30,sum1=0,sum2=0,day1=1,day2=1; //SA refers to ShareAuto,Sum1 for the calculate the sum for Bus and auto fair,Sum2 to calculate the auto fair only,same for day1 and day2
