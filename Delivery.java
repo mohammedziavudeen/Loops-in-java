@@ -7,7 +7,8 @@ public class Delivery {
 			rupees = rupees+7;
 			day = day+1;
 		}
-		System.out.println(rupees);
+			int TotalAmount=rupees+30;//30 for delivery charge
+		System.out.println(TotalAmount);
 
 	}
 
