@@ -24,8 +24,8 @@ public class BusFair {
 		 
 		System.out.println("Total amount for auto only:" +sum2);
 		double profitamount = sum1 - sum2;
-	    double profitPercentage = (profitamount / sum1) * 100;
-		System.out.println("Profit percentage: " + profitPercentage + "%");
+	    	double profitPercentage = (profitamount / sum1) * 100;
+		System.out.println("Profit percentage: " + profitPercentage);
 }
 }
 
