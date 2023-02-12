@@ -3,7 +3,7 @@ public class Milk {
 
 	public static void main(String[] args) {
 		int day = 1,sum=0;
-		while(day<=30&&day%2==1) {
+		while(day<=30) {
 			sum = sum + 21; //21 is Half litre milk rate
 			day = day+2;
 		}
